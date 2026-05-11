@@ -1,0 +1,86 @@
+[
+  {
+    "qid": "Q41",
+    "query": "what progress has been made in research on unsteady aerodynamics ."
+  },
+  {
+    "qid": "Q67",
+    "query": "does transition in the hypersonic wake depend on body geometry and size"
+  },
+  {
+    "qid": "Q98",
+    "query": "what are the significant steady and non-steady flow characteristics\nwhich affect the flutter mechanism ."
+  },
+  {
+    "qid": "Q200",
+    "query": "what are the effects of viscosity on compressible flow over flat plates"
+  },
+  {
+    "qid": "Q201",
+    "query": "cylindrical AND shell AND vibration AND frequency"
+  },
+  {
+    "qid": "Q202",
+    "query": "\"heat transfer\" AND ( \"boundary layer\" OR \"viscous flow\" )"
+  },
+  {
+    "qid": "Q203",
+    "query": "buckling OR stability OR deflection"
+  },
+  {
+    "qid": "Q204",
+    "query": "\"laminar boundary layer\""
+  },
+  {
+    "qid": "Q205",
+    "query": "\"shock wave\""
+  },
+  {
+    "qid": "Q206",
+    "query": "\"turbulent mixing\""
+  },
+  {
+    "qid": "Q207",
+    "query": "\"transonic flow\""
+  },
+  {
+    "qid": "Q208",
+    "query": "turb*"
+  },
+  {
+    "qid": "Q209",
+    "query": "compress*"
+  },
+  {
+    "qid": "Q210",
+    "query": "*sonic"
+  },
+  {
+    "qid": "Q211",
+    "query": "bound*"
+  },
+  {
+    "qid": "Q212",
+    "query": "heat NEAR/5 transfer"
+  },
+  {
+    "qid": "Q213",
+    "query": "shock NEAR/3 wave"
+  },
+  {
+    "qid": "Q214",
+    "query": "pressure NEAR/4 distribution"
+  },
+  {
+    "qid": "Q215",
+    "query": "boundary NEAR/3 layer"
+  },
+  {
+    "qid": "Q216",
+    "query": "how do temperature gradients affect structural stability under cyclic loading"
+  },
+  {
+    "qid": "Q217",
+    "query": "what experimental techniques are used to measure stagnation point heating"
+  }
+]
